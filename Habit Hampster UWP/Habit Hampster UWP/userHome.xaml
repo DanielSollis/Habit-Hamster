@@ -8,6 +8,10 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="367*"/>
+            <ColumnDefinition Width="113*"/>
+        </Grid.ColumnDefinitions>
 
     </Grid>
 </Page>
